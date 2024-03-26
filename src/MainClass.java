@@ -40,7 +40,7 @@ public class MainClass {
                 }
             }
         }
-//        for (int i = 0; i < Bank.NUMBER_OF_BANKS; i++) { Вивід у консоль сортованого масиву додано для тестування
+//        for (int i = 0; i < Bank.NUMBER_OF_BANKS; i++) { // Вивід у консоль сортованого масиву додано для тестування
 //            System.out.println(Arrays.toString(bankNameAndUSDPrice[i]));
 //        }
         System.out.println("Найкращий курс у наступних банках: ");
