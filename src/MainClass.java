@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 public class MainClass {
+
     public static void main(String[] args) {
         Bank bankAndPrice = new Bank();
         String[][] bankNameAndUSDPrice = new String[Bank.NUMBER_OF_BANKS][2];
